@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 My name is **Teguh Tri Laksono**.\
 I'm currenty learning as a Mobile Developer at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
 
-If you are interested in getting to know me, you can reach me on my Linkedn [Linkedin]([https://www.linkedin.com/in/teguh-tri-laksono/]/).
+If you are interested in getting to know me, you can reach me on my [Linkedin](https://www.linkedin.com/in/teguh-tri-laksono//).
