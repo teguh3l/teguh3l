@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello everyone
 
 My name is **Teguh Tri Laksono**.\
 I'm currenty learning as a Mobile Developer at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
