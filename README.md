@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 -->
 
 My name is **Teguh Tri Laksono**.\
-I'm currenty learning as a Mobile Developer at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
+🔭 I'm currently learning as a Mobile Developer at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka\
+🌱 I am currently studying at Universitas Muhammadiyah Bandung majoring in Informatics Engineering\
+📫 If you are interested in getting to know me, you can reach me on my [Linkedin](https://www.linkedin.com/in/teguh-tri-laksono//).
 
-If you are interested in getting to know me, you can reach me on my [Linkedin](https://www.linkedin.com/in/teguh-tri-laksono//).
+### Github Statistic
+<p align="left">
+<a href="https://github.com/teguh3l">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=teguh3l&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teguh3l&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
